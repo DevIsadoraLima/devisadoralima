@@ -1,7 +1,7 @@
 # Isadora Lima 👩🏻‍💻
 **`Desenvolvedora Front-End`**
 
-Me chamo Isadora Lima, tenho 25 anos em Santa Catarina. Sou estudante de Análise e Desenvolvimento de Sistemas na Católica SC e apaixonada por tecnologia.
+Me chamo Isadora Lima, tenho 25 anos e moro em Santa Catarina. Sou estudante de Análise e Desenvolvimento de Sistemas na Católica SC. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-lima-851b11206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yakultis_/)
@@ -28,6 +28,10 @@ Me chamo Isadora Lima, tenho 25 anos em Santa Catarina. Sou estudante de Anális
 
 ![Isadora GitHub stats](https://github-readme-stats.vercel.app/api?username=devisadoralima&show_icons=true&theme=cobalt&include_all_comits-true)
 
-![Snake animation](https://github.com/devisadoralima/devisadoralima/blob/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="Isa" width="10%" src="https://cdn.discordapp.com/attachments/1325614980187291802/1340729601223295058/github.gif?ex=67b36b3e&is=67b219be&hm=c5cbcac6ab2435a39ca422cb48e74bb57df4ef71d2e7abd5cd97b03961724702&">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devisadoralima/devisadoralima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devisadoralima/devisadoralima/output/github-contribution-grid-snake-dark.svg">
+  <img align="left" width="86%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devisadoralima/devisadoralima/output/github-contribution-grid-snake.svg">
+</picture>
+    <img alt="Isa" height="100px" align="right" src="https://cdn.discordapp.com/attachments/1325614980187291802/1340729601223295058/github.gif?ex=67b36b3e&is=67b219be&hm=c5cbcac6ab2435a39ca422cb48e74bb57df4ef71d2e7abd5cd97b03961724702&">
