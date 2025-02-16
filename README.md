@@ -28,5 +28,6 @@ Me chamo Isadora Lima, tenho 25 anos em Santa Catarina. Sou estudante de Anális
 
 ![Isadora GitHub stats](https://github-readme-stats.vercel.app/api?username=devisadoralima&show_icons=true&theme=cobalt&include_all_comits-true)
 
+![Snake animation](https://github.com/devisadoralima/devisadoralima/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" alt="Isa" width="10%" src="https://cdn.discordapp.com/attachments/1325614980187291802/1340729601223295058/github.gif?ex=67b36b3e&is=67b219be&hm=c5cbcac6ab2435a39ca422cb48e74bb57df4ef71d2e7abd5cd97b03961724702&">
